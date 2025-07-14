@@ -1,9 +1,10 @@
 # DataProcessor
-This project is a versatile command-line tool developed in **Python** (or **C++**, if that was your primary language for this project) designed for efficient reading, processing, filtering, and generating reports from various data sources. The program aims to automate data analysis and reporting tasks from structured files, logs, and web pages.
+
+This project is a versatile command-line tool developed in **Python**, designed for efficient reading, processing, filtering, and generating reports from various data sources. The program aims to automate data analysis and reporting tasks from structured files, logs, and web pages.
 
 ## About The Project
 
-Developed as an ambitious personal project, this tool demonstrates capabilities in handling diverse data formats. It provides users with powerful functions for extracting necessary information and presenting it in an organized manner. Special attention has been given to functionality and flexible data processing.
+Developed as an ambitious personal project, this tool demonstrates capabilities in handling diverse data formats, providing users with powerful functions for extracting necessary information and presenting it in an organized manner. Special attention has been given to functionality and flexible data processing.
 
 ## Key Features
 
@@ -37,12 +38,11 @@ Developed as an ambitious personal project, this tool demonstrates capabilities 
 
 ### Prerequisites
 
-* Python 3.x (if the project is in Python)
-* C++ Compiler (if the project is in C++)
+* Python 3.x
 
-### Installation of Dependencies (for Python version)
+### Installation of Dependencies
 
-If your project is in Python, you will need the `requests` and `BeautifulSoup4` libraries for web fetching and HTML parsing. Install them using `pip`:
+You will need the `requests` and `BeautifulSoup4` libraries for web fetching and HTML parsing. Install them using `pip`:
 
 ```bash
 pip install requests beautifulsoup4
